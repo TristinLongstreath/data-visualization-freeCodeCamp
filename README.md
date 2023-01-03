@@ -5,9 +5,9 @@
 These projects are made for the freeCodeCamp Data Visualization Certification. The objective was to use JSON and APIs while also using different types of data with the D3.js library in order to build five data projects that fulfill freeCodeCamp's requirements based on charts, graphs, and maps. To find further information on the projects, they are provided below. 
 
 <ul> 
-  <li>Bar Chart: <a href="" target="_Self">Page</a></li>
-  <li>Scatterplot Graph: <a href="" target="_Self">Page</a></li>
-  <li>Heat Map: <a href="" target="_Self">Page</a></li>
-  <li>Choropleth Map: <a href="" target="_Self">Page</a></li>
-  <li>Treemap Diagram: <a href="" target="_Self">Page</a></li>
+  <li>Bar Chart: <a href="https://codepen.io/tristinlongstreath/full/poaKgPE" target="_Self">Page</a></li>
+  <li>Scatterplot Graph: <a href="https://codepen.io/tristinlongstreath/full/GRQGoMb" target="_Self">Page</a></li>
+  <li>Heat Map: <a href="https://codepen.io/tristinlongstreath/full/bGLKEaV" target="_Self">Page</a></li>
+  <li>Choropleth Map: <a href="https://codepen.io/tristinlongstreath/full/NWyzNZz" target="_Self">Page</a></li>
+  <li>Treemap Diagram: <a href="https://codepen.io/tristinlongstreath/full/abqKNez" target="_Self">Page</a></li>
 </ul>
